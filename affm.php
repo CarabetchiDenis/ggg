@@ -10,6 +10,6 @@ while($message = $recupMessages->fetch()){
 
     <?php
     
-$dbb->close();
+$dbb->close();fgfgfgfgfgfgf
 
 ?>
